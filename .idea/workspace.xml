@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c484cc54-13b2-4522-a0c8-11851e3e0f85" name="Changes" comment="Creación de archivo botarate.py con el menú inicial" />
+    <list default="true" id="c484cc54-13b2-4522-a0c8-11851e3e0f85" name="Changes" comment="Creación de archivo botarate.py con el menú inicial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1636399550715</updated>
       <workItem from="1636399551933" duration="629000" />
+      <workItem from="1636410814059" duration="28000" />
+      <workItem from="1636532569078" duration="345000" />
     </task>
     <task id="LOCAL-00001" summary="Creación de archivo botarate.py con el menú inicial">
       <created>1636399649269</created>
@@ -101,6 +105,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creación de archivo botarate.py con el menú inicial" />

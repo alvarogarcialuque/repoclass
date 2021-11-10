@@ -1,5 +1,7 @@
 print('\t\t\t\t\t \033[1m\033[4mAPLICACIÓN BOT-ARATE\033[0m')
 
+
+# Hola
 salir = False
 
 while not salir:
