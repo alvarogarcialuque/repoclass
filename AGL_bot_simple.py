@@ -32,7 +32,7 @@ def check_all_messages(message):
             nonlocal highest_prob
             highest_prob[bot_response] = message_probability(message, list_of_words, respuesta_simple, required_words)
         #aquí se crean las respuestas a las preguntas
-        response('Hola Alex', ['Hola', 'saludos', 'buenas'], respuesta_simple = True)
+        response('Hola  Alex', ['Hola', 'saludos', 'buenas','hola','Alex','soy'], respuesta_simple = True)
         response('Estoy bien y tu?', ['cómo', 'estas', 'va', 'vas', 'sientes',"que sientes"], required_words=['como'])
         response('De animales nosé nada', ['bichos', 'animales', 'mundo_animal',], required_words=['animales'])
         response('Suspendí la asignatura de ciberseguridad en la universidad', ['seguridad', 'ciberseguridad',],required_words=['ciberseguridad'])
